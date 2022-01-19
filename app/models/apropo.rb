@@ -1,0 +1,2 @@
+class Apropo < ApplicationRecord
+end
